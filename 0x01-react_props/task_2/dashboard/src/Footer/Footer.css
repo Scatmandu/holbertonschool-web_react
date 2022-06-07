@@ -1,0 +1,10 @@
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  font-size:13px;
+  font-family:Helvetica;
+  font-style: italic;
+  text-align: center;
+  border-top: thick solid #e0344a;
+}
